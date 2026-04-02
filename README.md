@@ -1,4 +1,3 @@
-# ecommerce-data-analysis-project
 # 📊 Marketing Analytics Case Study (E-commerce)
 
 ## 🔍 Project Overview
